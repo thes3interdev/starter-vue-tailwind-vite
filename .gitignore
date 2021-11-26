@@ -1,0 +1,20 @@
+# dependency directory
+node_modules
+
+# local env files
+.env
+.env.local
+.env.*.local
+
+# vite build output
+dist
+dist-ssr
+
+# miscellaneous files
+*.local
+
+# editor directories and files
+.idea
+.vscode
+*.sln
+*.suo

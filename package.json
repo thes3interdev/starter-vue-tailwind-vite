@@ -1,0 +1,31 @@
+{
+	"name": "starter-vue-tailwindcss-vite",
+	"version": "1.0.0",
+	"description": "Starter template for Vue.js projects.",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"serve": "vite preview"
+	},
+	"dependencies": {
+		"vue": "^3.2.16",
+		"vue-router": "^4.0.12",
+		"vuex": "^4.0.2"
+	},
+	"devDependencies": {
+		"@vitejs/plugin-vue": "^1.9.3",
+		"@vue/runtime-dom": "latest",
+		"autoprefixer": "^10.4.0",
+		"postcss": "^8.4.1",
+		"tailwindcss": "^2.2.19",
+		"vite": "^2.6.4"
+	},
+	"author": {
+		"name": "Michael Owuor"
+	},
+	"engines": {
+		"node": ">=10.16.0 <=14.x.x",
+		"npm": "^6.0.0"
+	},
+	"license": "MIT"
+}
